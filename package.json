@@ -21,5 +21,6 @@
   },
   "devDependencies": {
     "@pigment-css/vite-plugin": "^0.0.30"
-  }
+  },
+  "packageManager": "yarn@4.9.2"
 }
